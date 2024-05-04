@@ -1,0 +1,16 @@
+.form_container
+{
+    text-align: center;
+    /* display:flex; */
+    justify-content: center;
+    align-items: center;
+    max-width: 1000px;
+}
+.form_container input{
+    padding: 10px;
+    margin: 5px;
+    width: 100%;
+}
+.form_container button{
+    margin: 10px;
+}
